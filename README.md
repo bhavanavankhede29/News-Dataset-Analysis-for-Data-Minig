@@ -19,3 +19,8 @@ pip install keras
 pip install matplotlib
 
 pip install sklearn
+
+
+for Output please refer below link :-
+
+https://drive.google.com/drive/folders/1j6oTKD4mpTPZX0-we9JHXFA-jm6BflHf

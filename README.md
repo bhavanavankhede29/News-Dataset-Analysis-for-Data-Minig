@@ -6,4 +6,12 @@ https://www.kaggle.com/snapcrack/all-the-news
 For Glove, this is stanford library .
 Please download related files from below link :-
 
-https://nlp.stanford.edu/projects/glove/
+http://nlp.stanford.edu/data/glove.6B.zip
+
+Also please make sure below puthon3 libraries needs to be installed :-
+
+pandas
+numpy
+keras
+matplotlib
+sklearn

@@ -23,4 +23,4 @@ pip install sklearn
 
 for Output please refer below link :-
 
-https://drive.google.com/drive/folders/1j6oTKD4mpTPZX0-we9JHXFA-jm6BflHf
+https://drive.google.com/open?id=1j6oTKD4mpTPZX0-we9JHXFA-jm6BflHf

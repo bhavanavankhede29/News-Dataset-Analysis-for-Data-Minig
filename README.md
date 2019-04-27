@@ -8,7 +8,7 @@ Please download related files from below link :-
 
 http://nlp.stanford.edu/data/glove.6B.zip
 
-Also please make sure below puthon3 libraries needs to be installed :-
+Also please make sure below puthon3 libraries needs to be installed before executing any of the mentioned code:-
 
 pip install pandas
 

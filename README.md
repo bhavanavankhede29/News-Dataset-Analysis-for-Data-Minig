@@ -10,8 +10,12 @@ http://nlp.stanford.edu/data/glove.6B.zip
 
 Also please make sure below puthon3 libraries needs to be installed :-
 
-pandas
-numpy
-keras
-matplotlib
-sklearn
+pip install pandas
+
+pip install numpy
+
+pip install keras
+
+pip install matplotlib
+
+pip install sklearn
